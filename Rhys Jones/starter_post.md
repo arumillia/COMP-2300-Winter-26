@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Rhys Jones"
+title: "Nuclear Energy Deserves a Second Chance"
 date: 2026-01-16
 publish: true
 tags:
@@ -7,19 +7,9 @@ tags:
   - reflection
 ---
 
-# Week 1 - Rhys Jones
+# Nuclear Energy Deserves a Second Chance
 
-Hi, I am a Finance major at the University of Denver with minors in Computer Science and Mathematics. I’m passionate about quantitative finance, portfolio analytics, and building data-driven investment tools.
-
-## OP-ED
-
-Nuclear Energy Deserves a Second Chance
-
-Rhys Jones
-
-University of Denver 
-
-2/11/2026
+### By Rhys Jones
 
 Most people my age care about climate change and clean energy. We support solar panels, wind farms, and electric cars. But when nuclear power comes up, the mood often changes. People think of disasters, radiation, or nuclear weapons. I used to feel the same way. Nuclear just sounded risky and outdated. But the more I have learned, the more I think we need to take a second look at it. Especially because of how fast our electricity demand is growing. 
 
